@@ -6,7 +6,47 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/ACDCTerminal/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/Accumulator/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/AccumulatorValue/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/ActivityRecord/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/Analog/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/AnalogValue/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/AuxiliaryEquipment/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ritger-alliander.github.io/im-measurement/Boolean/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/ConnectivityNodeContainer/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -41,17 +81,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/Equipment/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/EquipmentContainer/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ritger-alliander.github.io/im-measurement/Float/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ritger-alliander.github.io/im-measurement/IdentifiedObject/</loc>
+         <loc>https://ritger-alliander.github.io/im-measurement/IOPoint/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ritger-alliander.github.io/im-measurement/IdentifiedObjectCollection/</loc>
+         <loc>https://ritger-alliander.github.io/im-measurement/IdentifiedObject/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -71,7 +121,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ritger-alliander.github.io/im-measurement/NamedThing/</loc>
+         <loc>https://ritger-alliander.github.io/im-measurement/Measurement/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/MeasurementValue/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/Name/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/NameType/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/NameTypeAuthority/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -91,7 +161,52 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ritger-alliander.github.io/im-measurement/PersonStatus/</loc>
+         <loc>https://ritger-alliander.github.io/im-measurement/PSREvent/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/PSREventKind/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/PerCent/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/PhaseCode/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/PowerSystemResource/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/RemotePoint/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/RemoteSource/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/RemoteUnit/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/RemoteUnitType/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/Sensor/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -106,7 +221,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/TC57CIM/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/Terminal/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://ritger-alliander.github.io/im-measurement/Time/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/UnitMultiplier/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/UnitSymbol/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -126,12 +261,62 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ritger-alliander.github.io/im-measurement/age_in_years/</loc>
+         <loc>https://ritger-alliander.github.io/im-measurement/accumulator/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ritger-alliander.github.io/im-measurement/birth_date/</loc>
+         <loc>https://ritger-alliander.github.io/im-measurement/accumulator_values/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/additional_equipment_container/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/additional_grouped_equipment/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/aggregate/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/alias_name/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/analog/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/analog_values/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/auxiliary_equipment/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/connected/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/created_date_time/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/deadband/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -141,32 +326,202 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ritger-alliander.github.io/im-measurement/entries/</loc>
+         <loc>https://ritger-alliander.github.io/im-measurement/equipment_container/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ritger-alliander.github.io/im-measurement/id/</loc>
+         <loc>https://ritger-alliander.github.io/im-measurement/equipments/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ritger-alliander.github.io/im-measurement/im-measurement/</loc>
+         <loc>https://ritger-alliander.github.io/im-measurement/identified_object/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ritger-alliander.github.io/im-measurement/name/</loc>
+         <loc>https://ritger-alliander.github.io/im-measurement/in_service/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ritger-alliander.github.io/im-measurement/primary_email/</loc>
+         <loc>https://ritger-alliander.github.io/im-measurement/kind/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://ritger-alliander.github.io/im-measurement/vital_status/</loc>
+         <loc>https://ritger-alliander.github.io/im-measurement/m_rid/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/max_value/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/measurement_type/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/measurement_value/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/measurements/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/min_value/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/multiplier/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/name_type/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/name_type_authority/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/name_types/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/names/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/network_analysis_enabled/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/normal_value/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/normally_in_service/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/phases/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/positive_flow_in/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/power_system_resource/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/psrevents/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/reason/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/remote_points/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/remote_source/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/remote_unit/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/remote_unit_type/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/sensor_accuracy/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/sensor_maximum/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/sensor_minimum/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/sequence_number/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/severity/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/terminal/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/time_stamp/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/type/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/unit/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/unit_multiplier/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/unit_symbol/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritger-alliander.github.io/im-measurement/value/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
